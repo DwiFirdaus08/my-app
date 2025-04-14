@@ -6,7 +6,7 @@ import Dashboard from "./pages/Dashboard";
 
 function App() {
   return (
-    <div classname="flex flex-col items-center justify-center h-screen gap-4">
+    <div className="flex flex-col items-center justify-center h-screen gap-4">
       <Dashboard />
     </div>
   );
